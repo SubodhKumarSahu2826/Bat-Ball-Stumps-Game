@@ -4,7 +4,7 @@ The Bat Ball Stump Game is a simple web-based interactive game where the user co
 
 
 
-JavaScript Functions :
+JavaScript Functions :-
 
 Random Number Generator:
 Generates a random number between 0 and 3 to determine the computer's choice (Bat, Ball, or Stump).
