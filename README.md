@@ -18,7 +18,7 @@ Compares the user's choice (selected button) with the computer's choice to deter
 Alert Display:
 Creates a message that includes the user's choice, the computer's choice, and the result of the game, and displays it as an alert.
 
-Event Handler for Button Clicks:
+Event Handler for Button Clicks
 Executes the logic when a user clicks one of the buttons (Bat, Ball, or Stump). This includes generating the computer's choice, evaluating the result, and displaying the feedback.
 
 
