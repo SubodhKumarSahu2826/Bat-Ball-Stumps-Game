@@ -23,7 +23,7 @@ Executes the logic when a user clicks one of the buttons (Bat, Ball, or Stump). 
 
 
 
-Features
+Features:-
 
 User-friendly interface with buttons for game interaction.
 Randomized computer choices to ensure unpredictability.
