@@ -1,6 +1,6 @@
 Overview
 
-The Bat Ball Stump Game is a simple web-based interactive game where the user competes against the computer. The goal is to select one of the three options: Bat, Ball, or Stump. The computer generates its choice randomly, and the result of the game is determined based on predefined rules
+The Bat Ball Stump Game is a simple web-based interactive game where the user competes against the computer. The goal is to select one of the three options: Bat, Ball, or Stump. The computer generates its choice randomly, and the result of the game is determined based on predefined rules.
 
 
 
